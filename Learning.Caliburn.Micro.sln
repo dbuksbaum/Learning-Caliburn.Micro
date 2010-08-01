@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{9570C078-555A-49EA-AFB0-B0BEC96F6858}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloMef", "HelloMef\HelloMef.csproj", "{36CB04B5-89B5-4A43-A6D6-CDBFC42330D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +15,10 @@ Global
 		{9570C078-555A-49EA-AFB0-B0BEC96F6858}.Debug|x86.Build.0 = Debug|x86
 		{9570C078-555A-49EA-AFB0-B0BEC96F6858}.Release|x86.ActiveCfg = Release|x86
 		{9570C078-555A-49EA-AFB0-B0BEC96F6858}.Release|x86.Build.0 = Release|x86
+		{36CB04B5-89B5-4A43-A6D6-CDBFC42330D9}.Debug|x86.ActiveCfg = Debug|x86
+		{36CB04B5-89B5-4A43-A6D6-CDBFC42330D9}.Debug|x86.Build.0 = Debug|x86
+		{36CB04B5-89B5-4A43-A6D6-CDBFC42330D9}.Release|x86.ActiveCfg = Release|x86
+		{36CB04B5-89B5-4A43-A6D6-CDBFC42330D9}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

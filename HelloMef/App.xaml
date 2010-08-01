@@ -1,0 +1,14 @@
+﻿<Application x:Class="HelloMef.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             xmlns:local="clr-namespace:HelloMef">
+    <Application.Resources>
+      <ResourceDictionary>
+        <ResourceDictionary.MergedDictionaries>
+          <ResourceDictionary>
+            <local:MefBootStrapper x:Key="bootstrapper" />
+          </ResourceDictionary>
+        </ResourceDictionary.MergedDictionaries>
+      </ResourceDictionary>
+    </Application.Resources>
+</Application>
